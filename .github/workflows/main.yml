@@ -8,7 +8,7 @@ on:
         required: true
         default: 'Ekasunarja'
       agent_description:
-        description: 'Eka'
+        description: 'Ekasunarja'
         required: true
         default: 'Ekasunarja AI Agent'
 
